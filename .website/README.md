@@ -1,4 +1,7 @@
 ---
+genres:
+  - platformer
+  - puzzle
 post: https://reitgames.com/news/hang-by-a-thread-post-mortem
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
